@@ -12,12 +12,204 @@ Each assignment or any additional files referenced in the table is available in 
 
 To complete writing assignments, please write on every other line and leave 1.25-inch margins for each piece of paper you use if you do not use the calligraphy grid.
 
-| SES # | BEFORE CLASS | IN CLASS |
-| --- | --- | --- |
-| 1 | Welcome Aboard |  {{< br >}}{{< br >}} *   Course Introduction.{{< br >}}*   What is your name?{{< br >}}*   How do you write a Chinese essay? {{< br >}}{{< br >}}  |
-| 2 |  {{< br >}}{{< br >}} Preview \[PC\] Lesson 11: {{< br >}}{{< br >}} Check Lingt Speaking Assignment One and complete it before the class. {{< br >}}{{< br >}} 1.  Read "Grammatical Points" and "Sentence Patterns and Word Usage." on pp. 10–13.{{< br >}}2.  Study the Vocabulary on pp. 2–4 (listen to the audio file.) Learn the Lesson 11 required characters by heart (check Appendix II on pp. 239–41 for character stroke order). Make sure you know the other Lesson 11 characters by sight.{{< br >}}3.  Read the text on pp. 5–6 (listen to the audio file). {{< br >}}{{< br >}} Write on your book the answers to the questions in the exercises on pp. 5 and 7–8. {{< br >}}{{< br >}} 5.  Read Dialogue on pp. 8–9 (listen to the audio file). {{< br >}}{{< br >}} Browse the web pages on Shengxiao, [农历网](http://www.nongli.com/item5/) or [生肖星座网](http://web.archive.org/web/20050828142809/http://www.mypcera.com/xin/) Do they apply to yourself or your family members? In what way? {{< br >}}{{< br >}} FYI: Copy and paste a text into the Chinese Annotation Tool (find it in the Tools / Resources section), and you are one click away from the fully glossed text. {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} *   10 true-or false questions on Lesson 11 text and dialogue.{{< br >}}*   Lesson 11 text.{{< br >}}*   Lesson 11 Dialogue. {{< br >}}{{< br >}}  |
-| 3 |  {{< br >}}{{< br >}} Writing Assignments: {{< br >}}{{< br >}} 1.  Handwrite a coherent paragraph with all the entries from "Sentence Patterns and Word Usage." on pp. 12–13 on a piece paper and hand them in in class.{{< br >}}2.  (Handwrite) Writing exercise on p. 17. Pay special attention to the over-all structure. No less than 180 characters. {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} *   Hand in your writing assignments.{{< br >}}*   Lesson 11 grammar.{{< br >}}*   Lesson 11 exercises on pp. 14–18. {{< br >}}{{< br >}}  |
-| 4 |  {{< br >}}{{< br >}} Preview \[PC\] Lesson 12: {{< br >}}{{< br >}} Check Lingt Speaking Assignment Two and complete it before the class. {{< br >}}{{< br >}} 1.  Read "Grammatical Points" and "Sentence Patterns and Word Usage." on pp. 28–29.{{< br >}}2.  Study the Vocabulary on pp. 20–22 (listen to the audio files). Learn the Lesson 12 required characters by heart (check Appendix II on pp. 242–4 for character stroke order). Make sure you know the other Lesson 12 characters by sight.{{< br >}}3.  Read the text on pp. 23–24 (listen to the audio files). Write on your book the answer to the questions in the exercises on pp. 23 and 25.{{< br >}}4.  Read Dialogue on pp. 26–27 (listen to the audio files). {{< br >}}{{< br >}} Browse the web pages on [Spring Festival Customs](https://web.archive.org/web/20090114043847/http://www.chunjie.net.cn/znew/ms2.aspx) or the [Traditional Character](https://web.archive.org/web/20120724093720/http://www.gio.gov.tw/info/festival_c/html/spring.htm) website Does your family practice these customs? Study Lesson 11 required characters. {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} *   Quiz: Dictation of Lesson 11 required characters.{{< br >}}*   10 true-or false questions on Lesson 12 text and dialogue.{{< br >}}*   Lesson 12 text  {{< br >}}    Lesson 12 Dialogue. {{< br >}}{{< br >}}  |
-| 5 |  {{< br >}}{{< br >}} Writing Assignments: {{< br >}}{{< br >}} 1.  Handwrite a coherent paragraph with all the entries from "Sentence Patterns and Word Usage." on pp. 30–31 on a piece of paper and hand them in in class.{{< br >}}2.  (Handwrite) Writing exercise on p. 37. Pay special attention to the over-all structure. No less than 180 characters. {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} *   Hand in your writing assignments.{{< br >}}*   Lesson 12 grammar.{{< br >}}*   Lesson 12 exercise on pp. 32–38. {{< br >}}{{< br >}}  |
-| 6 |  {{< br >}}{{< br >}} Study Lesson 12 Required Characters {{< br >}}{{< br >}} Download "Characteristic of Animal Signs." and read it. Bring the text to class. {{< br >}}{{< br >}} Memorize two characteristics of your own 属相 / 屬相 (one positive, one negative from the underlined vocab). {{< br >}}{{< br >}} Memorize two characteristics of your family members (one positive, one negative from the underlined vocab). {{< br >}}{{< br >}} FYI: Copy and paste a text into the Chinese Annotation Tool (find it in the Tools / Resources section), and you are one click away from the fully glossed text. {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} *   Quiz: Dictation of Lesson 12 required characters.{{< br >}}*   春联 属相性格/ 屬相性格. {{< br >}}{{< br >}}  |
-| 7 |  {{< br >}}{{< br >}} Review Lessons 11 and 12. Make sure you can reproduce the required characters in both lessons from memory and recognize the other characters by sight. Review the grammatical points, sentences patterns and word usage, and exercises. {{< br >}}{{< br >}} Test format will be announced. {{< br >}}{{< br >}}  | Test 1 (50 minutes; on Lessons 11 and 12).
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+BEFORE CLASS
+{{< thclose >}}
+{{< thopen >}}
+IN CLASS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Welcome Aboard
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+*   Course Introduction.
+*   What is your name?
+*   How do you write a Chinese essay?
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Preview \[PC\] Lesson 11:
+
+Check Lingt Speaking Assignment One and complete it before the class.
+
+1.  Read "Grammatical Points" and "Sentence Patterns and Word Usage." on pp. 10–13.
+2.  Study the Vocabulary on pp. 2–4 (listen to the audio file.) Learn the Lesson 11 required characters by heart (check Appendix II on pp. 239–41 for character stroke order). Make sure you know the other Lesson 11 characters by sight.
+3.  Read the text on pp. 5–6 (listen to the audio file).
+
+Write on your book the answers to the questions in the exercises on pp. 5 and 7–8.
+
+5.  Read Dialogue on pp. 8–9 (listen to the audio file).
+
+Browse the web pages on Shengxiao, [农历网](http://www.nongli.com/item5/) or [生肖星座网](http://web.archive.org/web/20050828142809/http://www.mypcera.com/xin/) Do they apply to yourself or your family members? In what way?
+
+FYI: Copy and paste a text into the Chinese Annotation Tool (find it in the Tools / Resources section), and you are one click away from the fully glossed text.
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+*   10 true-or false questions on Lesson 11 text and dialogue.
+*   Lesson 11 text.
+*   Lesson 11 Dialogue.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Writing Assignments:
+
+1.  Handwrite a coherent paragraph with all the entries from "Sentence Patterns and Word Usage." on pp. 12–13 on a piece paper and hand them in in class.
+2.  (Handwrite) Writing exercise on p. 17. Pay special attention to the over-all structure. No less than 180 characters.
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+*   Hand in your writing assignments.
+*   Lesson 11 grammar.
+*   Lesson 11 exercises on pp. 14–18.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Preview \[PC\] Lesson 12:
+
+Check Lingt Speaking Assignment Two and complete it before the class.
+
+1.  Read "Grammatical Points" and "Sentence Patterns and Word Usage." on pp. 28–29.
+2.  Study the Vocabulary on pp. 20–22 (listen to the audio files). Learn the Lesson 12 required characters by heart (check Appendix II on pp. 242–4 for character stroke order). Make sure you know the other Lesson 12 characters by sight.
+3.  Read the text on pp. 23–24 (listen to the audio files). Write on your book the answer to the questions in the exercises on pp. 23 and 25.
+4.  Read Dialogue on pp. 26–27 (listen to the audio files).
+
+Browse the web pages on [Spring Festival Customs](https://web.archive.org/web/20090114043847/http://www.chunjie.net.cn/znew/ms2.aspx) or the [Traditional Character](https://web.archive.org/web/20120724093720/http://www.gio.gov.tw/info/festival_c/html/spring.htm) website Does your family practice these customs? Study Lesson 11 required characters.
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+*   Quiz: Dictation of Lesson 11 required characters.
+*   10 true-or false questions on Lesson 12 text and dialogue.
+*   Lesson 12 text  
+    Lesson 12 Dialogue.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Writing Assignments:
+
+1.  Handwrite a coherent paragraph with all the entries from "Sentence Patterns and Word Usage." on pp. 30–31 on a piece of paper and hand them in in class.
+2.  (Handwrite) Writing exercise on p. 37. Pay special attention to the over-all structure. No less than 180 characters.
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+*   Hand in your writing assignments.
+*   Lesson 12 grammar.
+*   Lesson 12 exercise on pp. 32–38.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Study Lesson 12 Required Characters
+
+Download "Characteristic of Animal Signs." and read it. Bring the text to class.
+
+Memorize two characteristics of your own 属相 / 屬相 (one positive, one negative from the underlined vocab).
+
+Memorize two characteristics of your family members (one positive, one negative from the underlined vocab).
+
+FYI: Copy and paste a text into the Chinese Annotation Tool (find it in the Tools / Resources section), and you are one click away from the fully glossed text.
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+*   Quiz: Dictation of Lesson 12 required characters.
+*   春联 属相性格/ 屬相性格.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Review Lessons 11 and 12. Make sure you can reproduce the required characters in both lessons from memory and recognize the other characters by sight. Review the grammatical points, sentences patterns and word usage, and exercises.
+
+Test format will be announced.
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Test 1 (50 minutes; on Lessons 11 and 12).
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}

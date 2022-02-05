@@ -59,16 +59,93 @@ A = 100–94; A- = 93–90; B+ = 89–87; B = 86–83; B- = 82–80
 
 C+ = 79–76; C = 75–70; C- = 69–60; F = below 60
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Class Performance (Attendance 5%, Preparedness 5%, and Participation 10%) | 20% |
-| Written Assignments | 20% |
-| Lingt Assignments | 5% |
-| Online Project (BFA) | 5% |
-| 5 Tests | 25% |
-| Group Presentations | 10% |
-| End-of-term Essay (a 2-page Double-spaced typewritten paper using Microsoft Word; 16-point font _Or_ no less than 4 full pages, using the calligraphy sheet provided in [Study Materials]({{< baseurl >}}/pages/study-materials) instructions on how to input Chinese characters using _pinyin_ is available in [Tools and Resources]({{< baseurl >}}/pages/tools-and-resources).) | 5% |
-| Dictations and T / F Preview Questions | 10% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Class Performance (Attendance 5%, Preparedness 5%, and Participation 10%)
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Written Assignments
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lingt Assignments
+{{< tdclose >}}
+{{< tdopen >}}
+5%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Online Project (BFA)
+{{< tdclose >}}
+{{< tdopen >}}
+5%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5 Tests
+{{< tdclose >}}
+{{< tdopen >}}
+25%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Group Presentations
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+End-of-term Essay (a 2-page Double-spaced typewritten paper using Microsoft Word; 16-point font _Or_ no less than 4 full pages, using the calligraphy sheet provided in [Study Materials]({{< baseurl >}}/pages/study-materials) instructions on how to input Chinese characters using _pinyin_ is available in [Tools and Resources]({{< baseurl >}}/pages/tools-and-resources).)
+{{< tdclose >}}
+{{< tdopen >}}
+5%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Dictations and T / F Preview Questions
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Attendance and promptness is assumed; more than three unexcused absences (a week's worth) lowers your grade one letter; significant lateness will add up to absences—Twice during the semester, if you are late for class without telling your instructor in advance. If you miss a quiz in the beginning of the class, you are allowed to take the quiz at the end of the class.
 
@@ -110,7 +187,63 @@ Engaging in a language class should not feel like a chore that you resent having
 Presentation Rubric
 -------------------
 
-| &nbsp; | EXECELLENT (A) | GOOD (B) | AVERAGE (C) | NEEDS IMPROVEMENT (D) |
-| --- | --- | --- | --- | --- |
-| Presentation Style (Overall) | Smooth transitions; comprehensible with very few minor errors in grammar, vocabulary, pronunciation; consistently maintains good eye contact, appropriate speech rate and volume. | Transitions mostly smooth; comprehensible with infrequent errors in grammar, vocabulary, pronunciation; almost always maintains good eye contact, appropriate speech rate and volume. | Transitions fairly smooth; comprehensible with noticeable errors in grammar, vocabulary, pronunciation; eye contact, speech rate and volume adequate. | Transitions awkward; nearly or completely incomprehensible; eye contact, speech rate and volume inconsistently maintained. |
-| Group Participation | All team members worked together efficiently and effectively. | Most team members worked together efficiently and effectively. | Students needed occasional teacher assistance to work together efficiently and effectively. | One or two students did all the work; little or no group interaction.
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ 
+{{< thclose >}}
+{{< thopen >}}
+EXECELLENT (A)
+{{< thclose >}}
+{{< thopen >}}
+GOOD (B)
+{{< thclose >}}
+{{< thopen >}}
+AVERAGE (C)
+{{< thclose >}}
+{{< thopen >}}
+NEEDS IMPROVEMENT (D)
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Presentation Style (Overall)
+{{< tdclose >}}
+{{< tdopen >}}
+Smooth transitions; comprehensible with very few minor errors in grammar, vocabulary, pronunciation; consistently maintains good eye contact, appropriate speech rate and volume.
+{{< tdclose >}}
+{{< tdopen >}}
+Transitions mostly smooth; comprehensible with infrequent errors in grammar, vocabulary, pronunciation; almost always maintains good eye contact, appropriate speech rate and volume.
+{{< tdclose >}}
+{{< tdopen >}}
+Transitions fairly smooth; comprehensible with noticeable errors in grammar, vocabulary, pronunciation; eye contact, speech rate and volume adequate.
+{{< tdclose >}}
+{{< tdopen >}}
+Transitions awkward; nearly or completely incomprehensible; eye contact, speech rate and volume inconsistently maintained.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Group Participation
+{{< tdclose >}}
+{{< tdopen >}}
+All team members worked together efficiently and effectively.
+{{< tdclose >}}
+{{< tdopen >}}
+Most team members worked together efficiently and effectively.
+{{< tdclose >}}
+{{< tdopen >}}
+Students needed occasional teacher assistance to work together efficiently and effectively.
+{{< tdclose >}}
+{{< tdopen >}}
+One or two students did all the work; little or no group interaction.
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}

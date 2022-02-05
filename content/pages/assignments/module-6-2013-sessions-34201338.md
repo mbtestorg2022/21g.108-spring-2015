@@ -12,12 +12,157 @@ Each assignment or any additional files referenced in the table is available in 
 
 To complete writing assignments, please write on every other line and leave 1.25-inch margins for each piece of paper you use if you do not use the calligraphy grid.
 
-| SES # | BEFORE CLASS | IN CLASS |
-| --- | --- | --- |
-| 34 |  {{< br >}}{{< br >}} Important: You should start thinking about your end-of-term essay now. Don't forget to finish the BFA project by its deadline. {{< br >}}{{< br >}} The next two lessons are from a different textbook, _Oh China!_, and the language and vocabulary are very different from 大學語 文 / 大学语文 , and somewhat challenging. We will focus on two different genres, one is online blog and the other one is a prominent historical figure Rong Hong. The content is challenging but don't be overwhelmed by it. I don't expect you to master it right away. The goal is to expose you to material relevant to your life and test your reading skills. We will not have any tests on these materials but a presentation. {{< br >}}{{< br >}} Choose your own character version of "Xi'an Travel 西安自助旅游." and follow the steps below:   {{< br >}}{{< br >}} 1.  Listen to the recording \[Note: This recording is not provided due to copyright restrictions\].{{< br >}}2.  Listen to the recording 2–3 times. Do not look at the text the first time when you listen and see how much you understand.{{< br >}}3.  Listen to the recording with the text the second or the third time. Circle the vocabulary that you don't know.{{< br >}}4.  Bring the text to the class.{{< br >}}5.  Think about the following questions:{{< br >}}    1.  Do you like traveling? Name one or two great places you have visited.{{< br >}}    2.  Before traveling to a place, what would you do to learn about the destination? What aspects would you want to know about?{{< br >}}    3.  What are your top priorities when you plan a trip? {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} *   Bring the text of 西安自助旅游 to the class.{{< br >}}*   西安自助旅游. {{< br >}}{{< br >}}  |
-| 35 |  {{< br >}}{{< br >}} Writing Assignment: {{< br >}}{{< br >}} 1.  Complete post reading questions (see handout from the class).{{< br >}}2.  Review the text of 西安自助旅游.{{< br >}}3.  Take a look at the map under post reading questions.{{< br >}}4.  Bring your mobile device to the class. {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} *   Hand in your writing assignments.{{< br >}}*   Bring the text of 西安自助旅游 to the class.{{< br >}}*   Make a two-day trip to 西安 in groups. {{< br >}}{{< br >}}  |
-| 36 |  {{< br >}}{{< br >}} Preview \[_Oh, China!_\] Lesson 32 (Yung Wing). {{< br >}}{{< br >}} 1.  Read Grammar Notes on p. 468.{{< br >}}2.  Read Sentence Patterns and Word Usage on pp. 473–5.{{< br >}}3.  Study the Vocabulary on pp. 469–73 (listen to the audio files). Make sure you know the other Lesson 32 characters by sight.{{< br >}}4.  Read the text on pp. 462–7 (listen to the audio files). {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} *   10 true-or false questions on Lesson 32 text.{{< br >}}*   Discussion of Lesson 32 text. {{< br >}}{{< br >}}  |
-| 37 |  {{< br >}}{{< br >}} Need to Finish the Second BFA Project before Class. {{< br >}}{{< br >}} Study Sentence patterns and Word Usage on pp. 473–5 and create a sentence using each phrase or pattern. {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} *   Lesson 32 exercises on pp. 476–7.{{< br >}}*   Further discussion. {{< br >}}{{< br >}} Bring your laptop or other electronic devices to do the course evaluation in class. {{< br >}}{{< br >}}  |
-| 38 |  {{< br >}}{{< br >}} 1.  Select three films that you think are intrinsically related to one another from the list and watch the films. The connection could be a common theme, or a different interpretation of one single topic. Be an original thinker!{{< br >}}2.  Write up a 150-character comment to explain what the connection among the 3 films of your choice. {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} *   Discuss in groups about the 3 films that you have chosen for your collection and how you think they relate to each other.{{< br >}}*   Pick the best collection in your group and present it to the class. What have you learned in class? {{< br >}}{{< br >}}  
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+BEFORE CLASS
+{{< thclose >}}
+{{< thopen >}}
+IN CLASS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+34
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Important: You should start thinking about your end-of-term essay now. Don't forget to finish the BFA project by its deadline.
+
+The next two lessons are from a different textbook, _Oh China!_, and the language and vocabulary are very different from 大學語 文 / 大学语文 , and somewhat challenging. We will focus on two different genres, one is online blog and the other one is a prominent historical figure Rong Hong. The content is challenging but don't be overwhelmed by it. I don't expect you to master it right away. The goal is to expose you to material relevant to your life and test your reading skills. We will not have any tests on these materials but a presentation.
+
+Choose your own character version of "Xi'an Travel 西安自助旅游." and follow the steps below:  
+
+1.  Listen to the recording \[Note: This recording is not provided due to copyright restrictions\].
+2.  Listen to the recording 2–3 times. Do not look at the text the first time when you listen and see how much you understand.
+3.  Listen to the recording with the text the second or the third time. Circle the vocabulary that you don't know.
+4.  Bring the text to the class.
+5.  Think about the following questions:
+    1.  Do you like traveling? Name one or two great places you have visited.
+    2.  Before traveling to a place, what would you do to learn about the destination? What aspects would you want to know about?
+    3.  What are your top priorities when you plan a trip?
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+*   Bring the text of 西安自助旅游 to the class.
+*   西安自助旅游.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+35
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Writing Assignment:
+
+1.  Complete post reading questions (see handout from the class).
+2.  Review the text of 西安自助旅游.
+3.  Take a look at the map under post reading questions.
+4.  Bring your mobile device to the class.
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+*   Hand in your writing assignments.
+*   Bring the text of 西安自助旅游 to the class.
+*   Make a two-day trip to 西安 in groups.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+36
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Preview \[_Oh, China!_\] Lesson 32 (Yung Wing).
+
+1.  Read Grammar Notes on p. 468.
+2.  Read Sentence Patterns and Word Usage on pp. 473–5.
+3.  Study the Vocabulary on pp. 469–73 (listen to the audio files). Make sure you know the other Lesson 32 characters by sight.
+4.  Read the text on pp. 462–7 (listen to the audio files).
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+*   10 true-or false questions on Lesson 32 text.
+*   Discussion of Lesson 32 text.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+37
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Need to Finish the Second BFA Project before Class.
+
+Study Sentence patterns and Word Usage on pp. 473–5 and create a sentence using each phrase or pattern.
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+*   Lesson 32 exercises on pp. 476–7.
+*   Further discussion.
+
+Bring your laptop or other electronic devices to do the course evaluation in class.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+38
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+1.  Select three films that you think are intrinsically related to one another from the list and watch the films. The connection could be a common theme, or a different interpretation of one single topic. Be an original thinker!
+2.  Write up a 150-character comment to explain what the connection among the 3 films of your choice.
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+*   Discuss in groups about the 3 films that you have chosen for your collection and how you think they relate to each other.
+*   Pick the best collection in your group and present it to the class. What have you learned in class?
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 暑期快乐 / 暑期快樂
