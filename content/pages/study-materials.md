@@ -9,7 +9,7 @@ The following course materials support the in–class activities and assignments
 Writing Assignments
 -------------------
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Calligraphy Grid for Writing Assignments (PDF)]({{< baseurl >}}/resources/mit21g_108s15_calligraphy)
+[Calligraphy Grid for Writing Assignments (PDF)]({{< baseurl >}}/resources/mit21g_108s15_calligraphy)
 
 [怎麼寫文章 (一) / 怎麽写文章(一) / How to Write Chinese Composition Part I (PDF)]({{< baseurl >}}/resources/mit21g_108s15_chinesecom)
 
