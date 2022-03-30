@@ -5,6 +5,7 @@ description: "This resource contains information regarding Yi Hu Yi Xi Tan / \u4
   \ PK \u90ED\u8DF3\u8DF3\"."
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/21g-108-chinese-ii-streamlined-spring-2015/93fcfa99b0e22359a6e1f396e5b948ff_MIT21G_108S15_QueYiHuYiXi.pdf
 file_type: application/pdf
+parent_uid: 1a1feffb-eefd-09b4-bfbd-3630e69645be
 resourcetype: Document
 title: "Questions for \u201C\u8303\u8DD1\u8DD1 PK \u90ED\u8DF3\u8DF3\u201D"
 uid: 93fcfa99-b0e2-2359-a6e1-f396e5b948ff
